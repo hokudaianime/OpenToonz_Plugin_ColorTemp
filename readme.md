@@ -33,4 +33,4 @@ cmake --build .
 ```
 の2つのコマンドを打つとビルドされます。
 
-プラグイン本体はbin/Release/に出力されます。
+プラグイン本体はWindowsの場合`bin/Release/`に、Macの場合`lib`に出力されます。
